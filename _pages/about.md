@@ -1,13 +1,30 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋 Hello there, I'm Harshul "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research interests encompass data science and machine learning, with a focus on developing advanced algorithms to address real-world challenges. I am dedicated to leveraging machine learning for predictive analytics, process automation, and innovations in natural disaster management and AI applications. My objective is to advance AI applications to create intelligent systems that enhance decision-making and benefit society.
+
+Academic Foundation
+======
+After a strong foundation in science and maths, I ranked in the top 0.1 percentile in IIT-JEE and enrolled at the prestigious Indian Institute of Technology Delhi (IITD). I am ranked 4 out of 105 in Civil Engineering, and with a minor in Computer Science, will graduate next year. My interest in data science led me to enrol in IIT Madras' Diploma in Data Science, which I finished with an 8.91/10 CGPA. These two passions combined to provide me unique skills: engineering provided a disciplined approach of problem-solving, while computer science gave me the tools to extract insightful analysis from difficult data sets.
+Courses like Machine Learning, Advanced Data Structures, and Geospatial Analysis provided a solid foundation for technical concepts. Still, I thought it was most fascinating how several fields connected in useful context. Having a strong foundation in academics, I sought for opportunities to use my knowledge and look at the changing potential of data science.
+
+Research and Projects
+======
+My academic trajectory has been characterised by a commitment to research that establishes a connection between theory and application. During my undergraduate thesis at the HydroSense Lab, I developed a Graph Neural Network (GNN) model for improving streamflow forecasts in the Brahmaputra basin. The study aimed to increase the forecast accuracy by incorporating spatial and temporal links into hydrological models, which will aid in flood management. This interaction emphasised the significance of machine learning in addressing environmental challenges and inspired me to employ artificial intelligence to create long-term solutions.
+I have been instrumental in developing some of the tools and codebase used in operational landslide systems in India. I have also published multiple research papers in the domain at the intersection of Geospatial Artificial Intelligence and Natural hazards. For instance my work on “computationally efficient deep learning” which dealt on how can we identify very small landslide pixels using large sentinel images given computational limitations was published in the prestigious IEEE- IGARSS conference
+
+Beyond Academics
+======
+Aside from academics, I made significant contributions to my community. As a teaching assistant for IIT Delhi's Mechanics of Solids course, I assisted students in understanding difficult concepts while strengthening my communication and mentoring abilities. Additionally, my responsibilities in the Physics and Astronomy Club included the organisation of seminars that facilitated collaborative learning and prompted participants to apply their creativity to complex problems. These experiences not only improved my interpersonal abilities but also strengthened my dedication to the establishment of inclusive environments that foster learning and development.
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
@@ -46,4 +63,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
